@@ -2,13 +2,12 @@
 
 A git repo for all my dotfiles and config files for my ricings, along with package names.
 
-## packages
+## packages ##
 
-  -all i3 packages (i3-gaps)
-  -termite
-  -pycom
-  -gtk something i forgot
-  -
+all i3 packages (i3-gaps)
+termite
+pycom
+gtk something i forgot
 
 ## ins ##
 
