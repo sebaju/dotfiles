@@ -1,5 +1,7 @@
-## rice 
+# Ricings 
 
-i3-gaps
-termite
-pycom
+### Spiratedaway
+
+* i3-gaps
+* termite
+* pycom
