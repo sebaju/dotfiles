@@ -1,0 +1,11 @@
+cp /etc/portage/make.conf .
+cp /home/sal/.xinitrc ..
+cp /home/sal/.bashrc ..
+cp /home/sal/.Xresources ..
+cp -r /home/sal/.vim ../vim
+cp /home/sal/.vimrc ../vim
+cp -r /home/sal/usr/src/st ..
+cp -r /home/sal/usr/src/slstatus ..
+cp -r /home/sal/usr/src/dwm ..
+cp -r /home/sal/usr/src/dmenu ..
+

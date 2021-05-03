@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/etc/portage/package.use'
+let g:netrw_dirhist_3='/usr/share/vim/vim82/doc'
+let g:netrw_dirhist_2='/home/sal/img'
+let g:netrw_dirhist_1='/home/sal/usr/src/st'
