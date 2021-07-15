@@ -1,0 +1,21 @@
+/**
+ * @name salcord
+ * @author sal
+ * @version 2.1.0
+ * @description “The whirlwind in his brain—which had so many times tugged his pituitary in ways that made him TAKE instead of GIVE subsided for the very first time. Tightness in his crotch usually corresponded with a tightness in his gut, making him want to CONTROL, to CHOKE, to SUBDUE... but not this time. Not ever again.” || A descent into madness.
+ * @source https://github.com/sebaju/salcord
+ * @updateUrl https://raw.githack.com/sebaju/salcord/main/salcord.theme.css
+ * @authorId 473949366537945088
+ */
+
+/* DO NOT TOUCH -- this is the main css file */
+@import url(https://raw.githack.com/sebaju/salcord/main/css/salcord.css);
+
+/* OPTIONAL -- this removes the top bar */
+@import url(https://raw.githack.com/sebaju/salcord/main/css/bar.css);
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/825491492280729606/832016896534511686/download_2.jpg');
+  --background-image-blur: 0px; 
+  --bar-color: rgba(0, 0, 0, .8);
+}
