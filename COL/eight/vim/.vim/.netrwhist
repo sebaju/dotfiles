@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/sal/.config/nvim/in'
+let g:netrw_dirhist_8='/home/sal/src/chronos/chron/.git'
+let g:netrw_dirhist_7='/mnt/gentoo/home/home/sal/temp/ubu/home/ubuntu/srv/boobot'
+let g:netrw_dirhist_6='/home/sal/src/chronos/LiteBot/modules'
+let g:netrw_dirhist_5='/home/sal/.ssh'
+let g:netrw_dirhist_4='/home/sal/.urxvt'
+let g:netrw_dirhist_3='/usr/src/slstatus'
+let g:netrw_dirhist_2='/home/sal/.config/nvim'
+let g:netrw_dirhist_1='/home/sal/.config/nvim/lua'
+let g:netrw_dirhist_0='/home/sal/src/dwm'
